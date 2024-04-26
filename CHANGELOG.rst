@@ -2,6 +2,9 @@
 Changelog for package test_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2024-04-26)
+------------------
+
 2.0.2 (2024-04-16)
 ------------------
 * Increase the timeout for the test_msgs rosidl_generated_cpp cpplint. (`#163 <https://github.com/ros2/rcl_interfaces/issues/163>`_)
