@@ -1,0 +1,12 @@
+Source: ros-kilted-type-description-interfaces
+Section: misc
+Priority: optional
+Maintainer: William Woodall <william@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kilted-ament-cmake, ros-kilted-ament-lint-auto <!nocheck>, ros-kilted-ament-lint-common <!nocheck>, ros-kilted-rosidl-core-generators, ros-kilted-service-msgs, ros-kilted-ros-workspace, ros-kilted-rosidl-typesupport-fastrtps-c, ros-kilted-rosidl-typesupport-fastrtps-cpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-type-description-interfaces
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kilted-rosidl-core-runtime, ros-kilted-service-msgs, ros-kilted-ros-workspace
+Description: A package containing message and service definitions for describing and communicating descriptions of other types.
