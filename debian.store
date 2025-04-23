@@ -1,1 +1,1 @@
-{"base": "8ff62af64d40", "parent": "debian/rolling/lifecycle_msgs", "previous": "b601057f27c2", "trim": "", "trimbase": ""}
+{"base": "07ac951c5345", "parent": "debian/kilted/lifecycle_msgs", "previous": "79f80f539b94", "trim": "", "trimbase": ""}
