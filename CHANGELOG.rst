@@ -2,6 +2,9 @@
 Changelog for package lifecycle_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.2.2 (2025-07-16)
+------------------
+
 1.2.1 (2022-11-07)
 ------------------
 * lifecycle_msgs: remove non-ASCII chars from field comments (`#147 <https://github.com/ros2/rcl_interfaces/issues/147>`_) (`#148 <https://github.com/ros2/rcl_interfaces/issues/148>`_)
