@@ -2,29 +2,12 @@
 Changelog for package builtin_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.4.2 (2025-07-29)
+2.0.3 (2025-08-06)
 ------------------
-* Fix cmake deprecation (`#180 <https://github.com/ros2/rcl_interfaces/issues/180>`_)
-* Contributors: mosfet80
-
-2.4.1 (2025-07-01)
-------------------
-* Add info to duration message and time message comments (`#176 <https://github.com/ros2/rcl_interfaces/issues/176>`_)
-* Contributors: Jimmy McElwain
-
-2.4.0 (2025-04-25)
-------------------
-
-2.3.0 (2025-04-18)
-------------------
-
-2.2.0 (2024-06-25)
-------------------
-* Add missing build_export_depend on rosidl_core_runtime (`#165 <https://github.com/ros2/rcl_interfaces/issues/165>`_)
-* Contributors: Scott K Logan
-
-2.1.0 (2024-04-26)
-------------------
+* Add info to duration message and time message comments (`#176 <https://github.com/ros2/rcl_interfaces/issues/176>`_) (`#178 <https://github.com/ros2/rcl_interfaces/issues/178>`_)
+  (cherry picked from commit 355006bb4f60f99defba0c6c010950ed45e4911c)
+  Co-authored-by: Jimmy McElwain <jimmy.mcelwain@motoman.com>
+* Contributors: mergify[bot]
 
 2.0.2 (2024-04-16)
 ------------------
