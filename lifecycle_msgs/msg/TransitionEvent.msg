@@ -1,5 +1,5 @@
 # The time point at which this event occurred.
-builtin_interfaces/Time stamp
+uint64 timestamp
 
 # The id and label of this transition event.
 Transition transition

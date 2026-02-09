@@ -2,19 +2,10 @@
 Changelog for package service_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.4.3 (2026-02-09)
+2.3.1 (2026-02-09)
 ------------------
-
-2.4.2 (2025-07-29)
-------------------
-* Fix cmake deprecation (`#180 <https://github.com/ros2/rcl_interfaces/issues/180>`_)
-* Contributors: mosfet80
-
-2.4.1 (2025-07-01)
-------------------
-
-2.4.0 (2025-04-25)
-------------------
+* Fix cmake deprecation (`#180 <https://github.com/ros2/rcl_interfaces/issues/180>`_) (`#181 <https://github.com/ros2/rcl_interfaces/issues/181>`_)
+* Contributors: mergify[bot]
 
 2.3.0 (2025-04-18)
 ------------------
