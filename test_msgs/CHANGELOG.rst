@@ -2,7 +2,29 @@
 Changelog for package test_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.0.3 (2025-08-06)
+2.4.3 (2026-02-09)
+------------------
+
+2.4.2 (2025-07-29)
+------------------
+* Fix cmake deprecation (`#180 <https://github.com/ros2/rcl_interfaces/issues/180>`_)
+* Contributors: mosfet80
+
+2.4.1 (2025-07-01)
+------------------
+
+2.4.0 (2025-04-25)
+------------------
+
+2.3.0 (2025-04-18)
+------------------
+* Added test messages with keys (`#173 <https://github.com/ros2/rcl_interfaces/issues/173>`_)
+* Contributors: Francisco Gallego Salido
+
+2.2.0 (2024-06-25)
+------------------
+
+2.1.0 (2024-04-26)
 ------------------
 
 2.0.2 (2024-04-16)
