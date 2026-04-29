@@ -1,0 +1,13 @@
+Source: ros-lyrical-rcl-interfaces
+Section: misc
+Priority: optional
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-builtin-interfaces, ros-lyrical-rosidl-default-generators, ros-lyrical-ros-workspace, ros-lyrical-rosidl-typesupport-fastrtps-c, ros-lyrical-rosidl-typesupport-fastrtps-cpp
+Homepage: https://index.ros.org/p/rcl_interfaces/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rcl-interfaces
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-builtin-interfaces, ros-lyrical-rosidl-default-runtime, ros-lyrical-ros-workspace
+Description: The ROS client library common interfaces.
+ This package contains the messages and services which ROS client libraries will use under the hood to communicate higher level concepts such as parameters.
