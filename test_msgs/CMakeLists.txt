@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.20)
+cmake_minimum_required(VERSION 3.5)
 
 project(test_msgs)
 
@@ -28,10 +28,6 @@ rosidl_generate_interfaces(test_msgs
   ${test_interface_files_ACTION_FILES}
   ${test_interface_files_IDL_FILES}
   "msg/Builtins.msg"
-  "msg/KeyedLong.idl"
-  "msg/KeyedString.idl"
-  "msg/NonKeyedWithNestedKey.idl"
-  "msg/ComplexNestedKey.idl"
   "action/NestedMessage.action"
   DEPENDENCIES builtin_interfaces
   ADD_LINTER_TESTS

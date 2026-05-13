@@ -2,23 +2,10 @@
 Changelog for package service_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.3.2 (2026-05-13)
+2.0.4 (2026-05-13)
 ------------------
 
-2.3.1 (2026-02-09)
-------------------
-* Fix cmake deprecation (`#180 <https://github.com/ros2/rcl_interfaces/issues/180>`_) (`#181 <https://github.com/ros2/rcl_interfaces/issues/181>`_)
-* Contributors: mergify[bot]
-
-2.3.0 (2025-04-18)
-------------------
-
-2.2.0 (2024-06-25)
-------------------
-* Add missing build_export_depend on rosidl_core_runtime (`#165 <https://github.com/ros2/rcl_interfaces/issues/165>`_)
-* Contributors: Scott K Logan
-
-2.1.0 (2024-04-26)
+2.0.3 (2025-08-06)
 ------------------
 
 2.0.2 (2024-04-16)
