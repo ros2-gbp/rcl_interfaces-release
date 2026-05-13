@@ -2,43 +2,16 @@
 Changelog for package rosgraph_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.0.4 (2026-05-13)
+1.2.3 (2026-05-13)
 ------------------
-* Actually build the new graph description messages (`#192 <https://github.com/ros2/rcl_interfaces/issues/192>`_) (`#194 <https://github.com/ros2/rcl_interfaces/issues/194>`_)
-* Add Graph description messages to rosgraph_msgs (`#188 <https://github.com/ros2/rcl_interfaces/issues/188>`_) (`#190 <https://github.com/ros2/rcl_interfaces/issues/190>`_)
+* Actually build the new graph description messages (`#192 <https://github.com/ros2/rcl_interfaces/issues/192>`_) (`#195 <https://github.com/ros2/rcl_interfaces/issues/195>`_)
+* Add Graph description messages to rosgraph_msgs (`#188 <https://github.com/ros2/rcl_interfaces/issues/188>`_) (`#189 <https://github.com/ros2/rcl_interfaces/issues/189>`_)
 * Contributors: mergify[bot]
 
-2.0.3 (2025-08-06)
+1.2.2 (2025-07-16)
 ------------------
 
-2.0.2 (2024-04-16)
-------------------
-
-2.0.1 (2023-10-04)
-------------------
-
-2.0.0 (2023-09-07)
-------------------
-
-1.7.0 (2023-04-27)
-------------------
-
-1.6.0 (2023-04-18)
-------------------
-
-1.5.0 (2023-04-11)
-------------------
-
-1.4.0 (2023-02-13)
-------------------
-* Update common_interfaces to C++17. (`#215 <https://github.com/ros2/rcl_interfaces/issues/215>`_) (`#151 <https://github.com/ros2/rcl_interfaces/issues/151>`_)
-* [rolling] Update maintainers - 2022-11-07 (`#150 <https://github.com/ros2/rcl_interfaces/issues/150>`_)
-* Contributors: Audrow Nash, Chris Lalancette
-
-1.3.1 (2022-09-09)
-------------------
-
-1.3.0 (2022-04-29)
+1.2.1 (2022-11-07)
 ------------------
 
 1.2.0 (2022-03-01)
