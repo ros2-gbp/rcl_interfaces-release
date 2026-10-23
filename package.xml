@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>rosgraph_msgs</name>
-  <version>2.5.1</version>
+  <version>2.5.2</version>
   <description>
     Messages relating to the ROS Computation Graph.
     These are generally considered to be low-level messages that end users do not interact with.
@@ -10,7 +10,7 @@
 
   <maintainer email="geoff@openrobotics.org">Geoffrey Biggs</maintainer>
 
-  <license>Apache License 2.0</license>
+  <license>Apache-2.0</license>
 
   <author email="clalancette@openrobotics.org">Chris Lalancette</author>
   <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
