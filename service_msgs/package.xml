@@ -2,12 +2,12 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>service_msgs</name>
-  <version>2.5.1</version>
+  <version>2.5.2</version>
   <description>Messages definitions common among all ROS services</description>
 
   <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
 
-  <license>Apache License 2.0</license>
+  <license>Apache-2.0</license>
 
   <author email="brian.chen@openrobotics.org">Brian Chen</author>
 
